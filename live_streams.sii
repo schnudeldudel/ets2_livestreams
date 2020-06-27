@@ -1,7 +1,7 @@
 SiiNunit
 {
 live_stream_def : _nameless.1a6.c6f4.7e40 {
- stream_data: 73
+ stream_data: 74
  stream_data[0]: "http://stream.laut.fm/simulator1|simulatorONE|Sim radio|DE|128|1"
  stream_data[1]: "https://radio.truckers.fm/|TruckersFM|Sim radio|EN|320|1"
  stream_data[2]: "http://radio.trucksim.fm:8000/stream|TruckSimFM|Sim radio|EN|320|1"
@@ -75,6 +75,8 @@ live_stream_def : _nameless.1a6.c6f4.7e40 {
  stream_data[70]: "https://swr-edge-2033-dus-lg-cdn.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3|SWR Aktuell|Misc|DE|128|1"
  stream_data[71]: "http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3|SWR4|Misc|DE|128|1"
  stream_data[72]: "https://frontend01.lb.streamonkey.net/radio7-ulm/stream/mp3|Radio7 Ulm|Misc|DE|128|1"
+ stream_data[73]: "http://stream.freefm.de:7000/Studio|freeFM|Indie|DE|128|1"
+
 }
 
 }
