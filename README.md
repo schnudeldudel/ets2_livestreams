@@ -1,5 +1,5 @@
 # ets2_livestreams
 My personal ETS2 livestreams.sii file.
-Mostly German radio stations ... some of the also broadcast terrestrial, some web-only.
+Mostly German radio stations ... some of them also broadcast terrestrial - some others are web-only.
 
 Have fun.
